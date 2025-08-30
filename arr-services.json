@@ -242,6 +242,11 @@
 			"name": "Wizarr",
 			"description": "An automatic invitation system for Plex, Jellyfin, Emby, AudiobookShelf, Komga, Kavita and Romm",
 			"github_slug": "Wizarrrr/wizarr"
+		},
+		{
+			"name": "Bookshelf",
+			"description": "A drop in replacement for Readarr to manage **ebooks** and **audiobooks**",
+			"github_slug": "pennydreadful/bookshelf"
 		}
 	]
 }
